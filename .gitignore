@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Python environment files
+*.env
+.env.*
+
+# Database and local uploads
+uploads/
+
+# Node.js dependencies
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/.vite/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS-specific
+*.swp
+*.swo
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Output and artifacts
+*.bak
+*.tmp
+
+# Ignore generated Excel or CSV files (optional)
+*.xlsx
+*.csv
+
+# Shell script artifacts
+*.sh~
+
+# Ignore all .local or test data if needed
+*.local
